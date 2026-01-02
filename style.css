@@ -5,7 +5,7 @@
       background: #f4f4f4;
       color: #333;
       line-height: 1.6;
-        display:none;
+        display:none !important;
     }
 
     .main-bar {
@@ -112,4 +112,5 @@
         padding-left: 0;
       }
     }
+
 
