@@ -155,7 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: #fff; }
+body { background: #fff; display:none !important; }
 
 
 
@@ -1952,5 +1952,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+
 
 }
