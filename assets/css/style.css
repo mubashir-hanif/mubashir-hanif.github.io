@@ -411,6 +411,7 @@ main {
 .contact-about p{
   color: #000;
   font-size: 16px;
+font-weight:400;
 }
 
 .contact-item {
@@ -832,7 +833,7 @@ main {
 
 .timeline-text {
   color: #000;
-  font-weight: var(--fw-300);
+  /* font-weight: var(--fw-300); */
   line-height: 1.6;
 }
 
@@ -1971,4 +1972,5 @@ body::-webkit-scrollbar-button {
 
 
 }
+
 
