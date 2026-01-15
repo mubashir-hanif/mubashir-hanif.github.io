@@ -1055,6 +1055,7 @@ font-weight:400;
 .projects p{
   color:rgb(0, 0, 0);
   margin-bottom: 20px;
+font-weight: 400;
 }
 
 .projects h4{
@@ -1972,5 +1973,6 @@ body::-webkit-scrollbar-button {
 
 
 }
+
 
 
